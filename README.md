@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 😄  
+
+### - 🔭 I am a math undergraduate who loves programming.  
+
+### - 🌱 I'm currently learning python.  
+
+### - 👯 I'm also eager for collaborator.
 
 <!--
 **huang706/huang706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
