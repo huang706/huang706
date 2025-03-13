@@ -1,22 +1,21 @@
-## Hi 😄  
+# Hello there! 👋
 
-### - 🔭 I am a math undergraduate who loves programming.  
+## 🎓 About Me
+- I'm a freshman majoring in Mathematics 📐.
 
-### - 🌱 I'm currently learning python.  
+- Simultaneously, I'm deeply curious and passionate about the fascinating world of Computer Science 💻 & open-source magic ✨!
 
-### - 👯 I'm also eager for collaborator.
+---
 
-<!--
-**huang706/huang706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Interests & Goals
+- Always excited to explore any area of computer science! 🌈
 
-Here are some ideas to get you started:
+- 🚀 Open-Source Dream: Eager to contribute to meaningful projects — even if it starts with fixing typos or translating documentation! 🛠️  
+*(P.S. Mentors welcome! 🙌)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Let’s Connect!
+- 📫 Reach me at: zihanhuang169@gmail.com
+
+### Feel free to reach out to me! 😄
